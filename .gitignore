@@ -1,0 +1,41 @@
+# Visual Studio / .NET
+.vs/
+bin/
+obj/
+dist/
+*.user
+*.suo
+*.userosscache
+*.sln.docstates
+
+# Build artifacts
+*.exe
+*.dll
+*.pdb
+*.deps.json
+*.runtimeconfig.json
+
+# Python cache / virtual environments
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+env/
+
+# Local assistant/tool settings
+.claude/
+
+# Generated algorithm outputs and captures
+external/infer_repro/outputs/
+external/infer_repro/Result_pressure_pointer_4yolo_pose.txt
+MeterVision.App/**/captures/
+
+# Logs and local scratch
+*.log
+*.tmp
+*.bak
+
+# OS files
+Thumbs.db
+Desktop.ini
+.DS_Store

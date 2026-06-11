@@ -1,0 +1,6 @@
+ultralytics>=8.2.0
+opencv-python>=4.5
+numpy>=1.23
+PyQt5>=5.15
+PySide6>=6.5
+rapidocr-onnxruntime>=1.4
