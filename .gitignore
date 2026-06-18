@@ -25,6 +25,12 @@ env/
 # Local assistant/tool settings
 .claude/
 
+# Android / Gradle
+.gradle/
+MeterVision.Android/.gradle/
+MeterVision.Android/**/build/
+MeterVision.Android/local.properties
+
 # Generated algorithm outputs and captures
 external/infer_repro/outputs/
 external/infer_repro/Result_pressure_pointer_4yolo_pose.txt
